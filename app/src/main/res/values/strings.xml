@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kata Karate New</string>
+
+    <string name="Technical">Technical Performance</string>
+    <string name="Athletic">Athletic Performance</string>
+
+    <string name="angka_awal">5.5</string>
+    <string name="plus_satu">+1</string>
+    <string name="plus_nol_dua">+0.2</string>
+    <string name="min_satu">-1</string>
+    <string name="min_nol_dua">-0.2</string>
+
+    <string name="Send">Send</string>
+    <string name="reset">Reset</string>
+</resources>
